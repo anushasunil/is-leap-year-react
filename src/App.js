@@ -29,7 +29,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>is Leap Year?</h1>
+        <h1>is Leap Year? 🤔</h1>
         <input
           placeholder={"enter a year"}
           onChange={(element) => setYear(element.target.value)}
