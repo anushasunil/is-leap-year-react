@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,700&display=swap");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  border: 0.2rem solid #6f4e37;
+  border-radius: 1rem;
+  max-width: 50%;
+  margin: auto;
+  margin-top: 25%;
+  color: #6f4e37;
+  font-family: "Merriweather", serif;
+  background: radial-gradient(
+    circle at 0% -5%,
+    #ffffff 5%,
+    #fffde7 50%,
+    #ffefcb 70%,
+    #f6e3ba 100%,
+    #dfcaa0 200%,
+    #cfb284 250%
+  );
+}
+
+input {
+  font-size: 1.5rem;
+  max-width: 60%;
+  text-align: center;
+  border-radius: 0.5rem;
+  background-color: #f0eee9;
+  color: #6f4e37;
+  font-family: "Merriweather", serif;
+}
+
+button {
+  display: block;
+  margin: auto;
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  background-color: #6f4e37;
+  color: white;
+
+  max-width: fit-content;
+  font-family: "Merriweather", serif;
+}
+
+p {
+  font-size: 1.5rem;
+}
