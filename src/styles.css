@@ -8,9 +8,9 @@
 .container {
   border: 0.2rem solid;
   border-radius: 1rem;
-  max-width: 50%;
+  max-width: 40%;
   margin: auto;
-  margin-top: 25%;
+  margin-top: 15%;
   color: white;
   font-family: "Josefin Sans", sans-serif;
   /* background: radial-gradient(
